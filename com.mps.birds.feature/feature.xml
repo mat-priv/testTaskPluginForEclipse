@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.mps.birds.feature"
+      label="Birds"
+      version="1.0.0.qualifier"
+      provider-name="MPS">
+
+   <description url="http://www.example.com/description">
+      [Enter Feature Description here.]
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <plugin
+         id="com.mps.birds.jackson"
+         version="1.0.0"/>
+
+   <plugin
+         id="com.mps.birds.ui"
+         version="1.0.0.qualifier"/>
+
+   <plugin
+         id="com.mps.birds.core"
+         version="1.0.0.qualifier"/>
+
+</feature>

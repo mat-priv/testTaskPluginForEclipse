@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="com.mps.birds" version="1.0.0.qualifier">
+      <category name="com.mps.birds"/>
+   </feature>
+   <category-def name="com.mps.birds" label="Birds test plugin"/>
+</site>

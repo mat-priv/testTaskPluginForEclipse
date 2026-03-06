@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+     point="org.eclipse.ui.views">
+   <view
+        name="Birds And Sightings"
+        id="com.mps.birds.ui.views.BirdsAndSightings"
+        class="com.mps.birds.ui.views.BirdsAndSightings"
+        category="Birds And Sightings">
+   </view>
+   </extension>
+
+</plugin>

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Core
+Bundle-SymbolicName: com.mps.birds.core
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.mps.birds.core
+Require-Bundle: com.mps.birds.jackson;bundle-version="1.0.0"
+Bundle-Vendor: EXAMPLE
+Automatic-Module-Name: com.mps.birds.core
+Bundle-RequiredExecutionEnvironment: JavaSE-11
